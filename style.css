@@ -1,0 +1,78 @@
+body{
+     background: url('table.jpg');
+     font-size: 20px;
+}
+#eventpaper{
+           position: absolute;
+           top:100px;
+           left: -440px;
+}
+#events{
+        position: absolute;
+        top: 150px;
+        left: 80px;
+        font-family: keyport, loud, serif;
+}
+#work{
+     position: fixed;
+     bottom: -30px;
+     right: 60px;
+     z-index: 299;
+}
+#main{
+          z-index: 99;
+          position: absolute;
+          right: 40px;
+          top: 130px;
+          width: 600px;
+          font-family: "GeoSlab703 XBd BT", sans-serif;
+}
+#phone{ 
+              position: absolute;
+              top: 600px;
+              right: 200px;
+}
+#mainback{
+         position: absolute;
+         top: 20px;
+         right: -80px;
+}
+.imp{
+        font-size: 150%;
+}
+#Calculator {
+                  position: absolute;
+                  top: 600px;
+                  left: 75px;
+                  z-index: 199;
+}
+a:link {
+         color: #4170b0;
+} 
+
+a:visited {
+          color: #401f1c;
+}
+a:hover{
+           color: #765e42;
+}
+#form{
+        position: absolute;
+        top: 150px;
+        left: 80px;
+        font-family: keyport, loud, serif;
+        width: 400px;
+}
+#sponsors {
+                position: absolute;
+                left: 30%;
+                top: 90%;
+                text-align: center;
+                font-family: "GeoSlab703 XBd BT", sans-serif;
+}
+select {
+          width: 300px;
+}
+select option {
+                   width: 300px;
+}
